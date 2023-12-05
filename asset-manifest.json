@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cps530lab10/static/css/main.53b30109.css",
-    "main.js": "/cps530lab10/static/js/main.d5b1a36d.js",
+    "main.js": "/cps530lab10/static/js/main.35e800dc.js",
     "index.html": "/cps530lab10/index.html",
     "main.53b30109.css.map": "/cps530lab10/static/css/main.53b30109.css.map",
-    "main.d5b1a36d.js.map": "/cps530lab10/static/js/main.d5b1a36d.js.map"
+    "main.35e800dc.js.map": "/cps530lab10/static/js/main.35e800dc.js.map"
   },
   "entrypoints": [
     "static/css/main.53b30109.css",
-    "static/js/main.d5b1a36d.js"
+    "static/js/main.35e800dc.js"
   ]
 }
