@@ -12,8 +12,9 @@ function MainContent() {
       <p>This is a simple React web page I created.</p>
       <h2>How I built this webpage</h2>
       <p>To create this webpage, I ran the command "npx npm-create-app ." in my terminal to create it in my directory.
-        To run this app on my own computer I just used the "npm start" command. I also added a counter button at the bottom
-        just to test out some functionalities in React.
+        To run this app on my own computer I just used the "npm start" command. Apart from deleting some files, I only
+        made changes to the files in src directory folder. Most of the code I wrote is in src\App.js in react-app.
+        I also added a counter button at the bottom just to test out some functionalities in React.
       </p>
       <h2>Struggles with Webpage</h2>
       <p>The main struggle I had was hosting the webpage. I decided to host it on Github using Github Pages. Github Pages
