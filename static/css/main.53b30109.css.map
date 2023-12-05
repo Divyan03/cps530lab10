@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.53b30109.css","mappings":"AAAA,EACE,iBACF,CACA,GACE,UACF","sources":["App.css"],"sourcesContent":["*{\n  text-align: center;\n}\nh1 {\n  color: plum;\n}"],"names":[],"sourceRoot":""}

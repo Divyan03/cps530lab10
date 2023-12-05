@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Divyan03/cps530lab10/static/css/main.53b30109.css",
+    "main.js": "/Divyan03/cps530lab10/static/js/main.d5b1a36d.js",
+    "index.html": "/Divyan03/cps530lab10/index.html",
+    "main.53b30109.css.map": "/Divyan03/cps530lab10/static/css/main.53b30109.css.map",
+    "main.d5b1a36d.js.map": "/Divyan03/cps530lab10/static/js/main.d5b1a36d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b30109.css",
+    "static/js/main.d5b1a36d.js"
+  ]
+}
